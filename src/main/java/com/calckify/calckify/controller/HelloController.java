@@ -1,4 +1,4 @@
-package com.calckify.calckify;
+package com.calckify.calckify.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
