@@ -47,6 +47,11 @@
             <version>${junit.version}</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.apache.maven.shared</groupId>
+            <artifactId>maven-script-interpreter</artifactId>
+            <version>1.4</version>
+        </dependency>
     </dependencies>
 
     <build>
